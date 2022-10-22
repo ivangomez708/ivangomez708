@@ -1,6 +1,10 @@
 <h1 align="center">Hola 👋 Ivan Gomez Bernal</h1>
 <h3 align="center">Estudiante ingeniera en sistemas y telecomunicaciones.</h3>
 
+<h3 align="center">Este soy yo</h3>
+
+![This is an image]()
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100054546503231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100054546503231" height="30" width="40" /></a>
