@@ -26,4 +26,4 @@
 
 <h3 align="center">Ella es mi pareja.</h3>
 
-![This is an image](ivan.jpeg)
+![This is an image](ivan2.jpg)
