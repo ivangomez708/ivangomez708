@@ -1,4 +1,5 @@
 <h1 align="center">Hola 👋 Iván Gómez Bernal</h1>
+![This is an image](ivan.jpg)
 
 <h3 align="center">Experiencia de (5) años y medio en atención al cliente manejo de archivo y documentos de empresas suma y arreglo de facturas de ventas de cada mes y asistente administrativo, persona activa, curiosa, honesta y puntual, con alto sentido de pertenencia y altas cualidades laborales y profesionales que contribuyen al desarrollo económico, social y tecnológico de su entorno y del país; así mismo, ofrecemos servicios en mantenimiento preventivo y predictivo de equipos de cómputo e implementación y configuración de redes de datos, manejo de herramientas ofimáticas (Word, Excel avanzado entre otras) análisis y control de bases de datos constructor de plantillas que contribuyen a la automatización de la informacion y procesos.</h3>
 
