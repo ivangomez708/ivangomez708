@@ -16,4 +16,6 @@
 <br>
 <br>
 
+<h3 align="center">Me gusta mucho league of legends y este es mi personaje favorito.</h3>
+
 ![This is an image](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_19.jpg)
